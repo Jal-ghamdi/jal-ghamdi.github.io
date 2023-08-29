@@ -1,5 +1,5 @@
-# Long Short Term Memory
-Long Short-Term Memory (LSTM) stands as a sophisticated and transformative advancement within the realm of neural networks, particularly in the field of natural language processing (NLP). 
+# Long Short-Term Memory (LSTM)
+LSTM stands as a sophisticated and transformative advancement within the realm of neural networks, particularly in the field of natural language processing (NLP). 
 In essence, LSTM addresses the inherent challenge of modeling sequential data, such as language, by effectively capturing and retaining long-range dependencies within sequences. 
 Unlike conventional recurrent neural networks (RNNs), which often struggle with vanishing or exploding gradients that hinder the learning of distant dependencies, LSTM introduces a dynamic 
 memory cell and specialized gating mechanisms to circumvent these limitations. This allows LSTM to effectively capture context and relationships across time steps, making it particularly well-suited 
